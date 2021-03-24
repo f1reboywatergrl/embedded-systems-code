@@ -10,8 +10,8 @@ Adafruit_BME280 bme; // I2C
 //Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // software SPI
 
 // Replace with your network credentials
-const char* ssid     = "HUAWEI-kxmU";
-const char* password = "n9YUYVJ8";
+const char* ssid     = "xxxx";
+const char* password = "xxxx";
 
 // Set web server port number to 80
 WiFiServer server(80);
